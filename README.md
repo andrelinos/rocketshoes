@@ -1,7 +1,12 @@
 # Aplicação RocketShoes desenvolvida durante aulas sobre arquitetura Redux
-## A tela abaixo exemplifica a tela inicial do ecommerce RocketShoes usando as tecnologias alistadas nas dependências abaixo abaixo de instalações. 
 
+A tela abaixo exemplifica a tela inicial do ecommerce RocketShoes usando as tecnologias alistadas nas dependências abaixo abaixo de instalações. 
+
+# Tela inicial do ecommerce
 ![alt text](https://github.com/andrelinos/rocketshoes/blob/master/Captura%20de%20tela_1.png)
+
+# Carrinho de compras
+![alt text](https://github.com/andrelinos/rocketshoes/blob/master/Captura%20de%20tela_2.png)
 
 # Especificações
 Esta aplicação é bem simples, porém demandou um bom tempo e atenção nas aulas para poder replicar o projeto. Porém ainda falta muitas funções que poderão ser implementas no futuro. Tais como:
